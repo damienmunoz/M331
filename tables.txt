@@ -12,4 +12,4 @@ Vols
 Personnel
 Equipages
 
-test merge local
+test merge
