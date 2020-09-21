@@ -1,0 +1,4 @@
+Question 3/ 2) : La commande "git status" permet d'avoir les informations du repo, actuellement le fichier tables.txt n'est pas dans le repo.
+Question 3/ 4) : La commande "git status" montre que le commit est manquant dans le repo pour qu'il soit a jour.
+Question 3/ 6) : La commane "git status" montre que le repo est bien a jour
+Question 3/ 8) : La commande permet de connaitre tout les commits concernant le repo
